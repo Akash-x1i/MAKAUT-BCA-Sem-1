@@ -1,0 +1,1 @@
+// 2. Draw a flowchart to find the GCD of two numbers using highest factor approach.
