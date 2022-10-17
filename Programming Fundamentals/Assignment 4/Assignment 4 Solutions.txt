@@ -1,7 +1,7 @@
 **************************************************
 
 1. What will be the output of the following C program:
-#include &lt;stdio.h&gt;
+#include <stdio.h>
 int main()
 {
 int a = 18, b = 3, c;
@@ -75,19 +75,59 @@ Single line comment
 
 
 ****************************************************
-6. Output is False
+6.What is the output of the following code:
+
+Void main(){
+int a=6,b=4;
+int x;
+x=(a!=b)&&(b==a);
+printf(“%d”,x);
+}
+
+ANSWER :-------------------
+
+Output is :
+0
 
 ****************************************************
+7. () operator is used for ……………………………………………..
+
+ANSWER:-------------------
+
+It is used for calling a function
 
 
 ****************************************************
+8. What will be the output of the following statement:
+
+printf(“%d”,3*printf(“abcd”));
+
+ANSWER:--------------------
+
+The compiler shows errors are present.
 
 
 ****************************************************
+9. What will be the output:
 
+void main()
+{
+int a=4;
+int ans=a++ * (4 + 7) % 35 - 28 / 7;
+printf("%d", ans);
+}
+
+ANSWER:-------------------
+
+Output is :
+5
 
 ****************************************************
+10. /n and /t are called …………………………………………………………………in C programming.
 
+ANSWER:-------------------
+
+Escape Sequence
 
 ****************************************************
 
