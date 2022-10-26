@@ -10,7 +10,7 @@ float C,F;
     
     F=(C*1.8)+32;
 
-    printf("Temperature in Fahrenheit : %f",F);
+    printf("Temperature in Fahrenheit : %.1f",F);
 }
 
 
