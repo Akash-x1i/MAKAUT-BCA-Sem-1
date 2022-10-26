@@ -8,7 +8,7 @@ void main(){
     scanf("%f",&radius);
     pi=22/(float)7;
     diameter=radius*2;
-    circumference=2*pi*radius;
+    circumference=diameter*pi;
     area=pi*radius*radius;
     
     printf("diameter of the circle is : %f\n",diameter);
