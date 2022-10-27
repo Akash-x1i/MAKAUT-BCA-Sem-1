@@ -7,6 +7,6 @@ void main(){
     mtr=cm/100;
     km=mtr/1000;
 
-    printf("%f centimetre in meter is %.2f meter\n",cm ,mt);
-    printf("%f centimetre in kilometre is %.3f kilometre",k);
+    printf("%f centimetre in meter is %.2f meter\n",cm ,mtr);
+    printf("%f centimetre in kilometre is %.3f kilometre",cm,km);
 } 
