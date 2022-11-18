@@ -1,0 +1,144 @@
+2
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe
+enter a number : 45
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> gcc .\Q2.c
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe   
+enter a number : 110
+110 is divisible by 5 and 11
+
+
+1
+enter a number : -46
+the number is negative.
+
+3
+enter a year : 2020
+2020 is a leap year
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe
+enter a year : 2021
+2021 is not a leap year
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe
+enter a year : 2022
+2022 is not a leap year
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe
+enter a year : 2023
+2023 is not a leap year
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe
+enter a year : 2024
+2024 is a leap year
+
+4
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe
+enter a character : h
+'h' is a alphabet.
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe
+enter a character : 7
+'7' is not a alphabet.
+
+5
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> gcc .\5.c
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe  
+enter a character : i
+'i' is a vowel.
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe
+enter a character : 3
+Error! Non-alphabetic Character
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe
+enter a character : f
+'f' is a consonant.
+
+6
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe
+enter a character : e
+the character is a alphabet
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe
+enter a character : 4
+the character is digit
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe
+enter a character : %
+the character is special character
+
+7.
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe   
+enter a character : G
+'G' is a uppercase alphabet.
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe
+enter a character : g
+'g' is a lowercase alphabet.
+
+8
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe
+enter day number:
+4
+Wednesday
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe
+enter day number:
+6
+Friday
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe 
+enter day number: 
+7
+Saturday
+
+9
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe   
+enter month number :
+1
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe
+enter month number :
+2
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe
+enter month number :
+3
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe
+enter month number :
+4
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe
+enter month number :
+5
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe
+enter month number :
+6
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe
+enter month number :
+7
+the number of days is 31
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe
+enter month number :
+8
+the number of days is 31
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe
+enter month number :
+9
+the number of days is 30
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe
+enter month number :
+10
+the number of days is 31
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe
+enter month number :
+11
+the number of days is 30
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe
+enter month number :
+12
+the number of days is 31
+
+
+
+10
+
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe    
+enter three angles of the triangle consecutively :
+90
+45
+45
+it is a valid triangle
+PS E:\MAKAUT BCA\MAKAUT-BCA-Sem-1\Programming Fundamentals\Lab\Lab Assgn 4> .\a.exe
+enter three angles of the triangle consecutively :
+90
+45
+46
+the triangle is not valid
+
+11
