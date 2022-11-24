@@ -1,4 +1,4 @@
-// 4. Write a C program to input any alphabet and check whether a it is a vowel or consonant. 
+// 5. Write a C program to input any alphabet and check whether a it is a vowel or consonant. 
 #include <ctype.h>
 #include<stdio.h>
 void main()

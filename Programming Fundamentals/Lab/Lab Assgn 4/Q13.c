@@ -7,15 +7,15 @@ void main(){
     float total, percentage, physics, chemistry, biology, math, computer;
     char grade;
     printf("enter physics marks :\n");
-    scanf("%.1f",&physics);
+    scanf("%f",&physics);
     printf("enter chemistry marks :\n");
-    scanf("%.1f",&chemistry);
+    scanf("%f",&chemistry);
     printf("enter biology marks :\n");
-    scanf("%.1f",&biology);
+    scanf("%f",&biology);
     printf("enter mathematics marks :\n");
-    scanf("%.1f",&math);
+    scanf("%f",&math);
     printf("enter computer marks :\n");
-    scanf("%.1f",&computer);
+    scanf("%f",&computer);
 
     total=physics+chemistry+biology+math+computer;
     percentage=total/5;
@@ -32,5 +32,5 @@ void main(){
     else
         grade='F';
     
-    printf("the percentage is %.1f and grade is %c",percentage,grade);
+    printf("the percentage is %.1f%% and grade is %c",percentage,grade);
 }
